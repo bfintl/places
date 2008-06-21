@@ -2,6 +2,11 @@
 
 There are a lot of standards that exist for identifying and categorizing all the places in the world. This project attempts to capture them into a set of scripts that can be used to bootstrap your database of places.
 
+<http://github.com/bfintl/places>
+
+This project was started specifically to provide bootstrapping and updating for the database of places at [Missions Bridge](http://missionsbridge.org/) and so is targeted at Rails and Merb web applications. Contributions are welcome!
+
+
 ## Goals for data captured
 
 ### Identifiers
@@ -30,7 +35,11 @@ Speaking of others who capture this data, who's working on that?
 
 ## Licensing
 
-Much of this is public domain.
+Much of this data is public domain or otherwise freely licensed.
+
+All of my ISO 3166 data so far is from [Wikipedia](http://en.wikipedia.org/wiki/ISO_3166).
+
+Original code is licensed [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ## Contact
 
@@ -38,4 +47,4 @@ Nick Zadrozny, <nick@beyondthepath.com>
 
 Freelance Web Developer, [Beyond the Path](http://beyondthepath.com)
 
-Co-founder/CEO [Beautiful Feet Intl](http://beautifulfeetintl.org)
+Co-founder/CEO, [Beautiful Feet Intl](http://beautifulfeetintl.org)
