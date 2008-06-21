@@ -1,0 +1,258 @@
+Alpha-2	Country name	Notes
+AD	Andorra	
+AE	United Arab Emirates	
+AF	Afghanistan	
+AG	Antigua and Barbuda	
+AI	Anguilla	AI previously represented French Afar and Issas
+AL	Albania	
+AM	Armenia	
+AN	Netherlands Antilles	
+AO	Angola	
+AQ	Antarctica	Consisting of all territory south of latitude 60°S
+Code taken from "Antarctique", its French name
+AR	Argentina	
+AS	American Samoa	
+AT	Austria	
+AU	Australia	
+AW	Aruba	
+AX	Åland Islands	
+AZ	Azerbaijan	
+BA	Bosnia and Herzegovina	
+BB	Barbados	
+BD	Bangladesh	
+BE	Belgium	
+BF	Burkina Faso	Previously named "Upper Volta" HV
+BG	Bulgaria	
+BH	Bahrain	
+BI	Burundi	
+BJ	Benin	Previously named "Dahomey" DY
+BL	Saint Barthélemy	
+BM	Bermuda	
+BN	Brunei Darussalam	
+BO	Bolivia	
+BR	Brazil	
+BS	Bahamas	
+BT	Bhutan	
+BV	Bouvet Island	
+BW	Botswana	
+BY	Belarus	Previously named "Byelorussian S.S.R."
+Code taken from "Byelorussia", its former name
+BZ	Belize	
+CA	Canada	
+CC	Cocos (Keeling) Islands	
+CD	Congo, the Democratic Republic of the	Previously named "Zaire" ZR
+CF	Central African Republic	
+CG	Congo	
+CH	Switzerland	Code taken from "Confoederatio Helvetica", its official Latin name
+CI	Côte d'Ivoire	Previously named "Ivory Coast"
+CK	Cook Islands	
+CL	Chile	
+CM	Cameroon	
+CN	China	
+CO	Colombia	
+CR	Costa Rica	
+CU	Cuba	
+CV	Cape Verde	
+CX	Christmas Island	
+CY	Cyprus	
+CZ	Czech Republic	
+DE	Germany	Previously named "Germany, Federal Republic of"
+Code taken from "Deutschland", its German name
+DJ	Djibouti	Previously named "French Afar and Issas" AI
+DK	Denmark	
+DM	Dominica	
+DO	Dominican Republic	
+DZ	Algeria	Code taken from "Ledzayer", its Berber name
+EC	Ecuador	
+EE	Estonia	Code taken from "Eesti", its Estonian name
+EG	Egypt	
+EH	Western Sahara	Previously named "Spanish Sahara"
+Code taken from "Sahara español", its former Spanish name
+ER	Eritrea	
+ES	Spain	Includes Canary Islands, Ceuta and Melilla
+Code taken from "España", its Spanish name
+ET	Ethiopia	
+FI	Finland	
+FJ	Fiji	
+FK	Falkland Islands (Malvinas)	
+FM	Micronesia, Federated States of	Previously named "Micronesia"
+FO	Faroe Islands	
+FR	France	Includes Clipperton Island
+GA	Gabon	
+GB	United Kingdom	Code taken from "Great Britain", part of its official name "United Kingdom of Great Britain and Northern Ireland"
+UK also exceptionally reserved on request of the United Kingdom
+GD	Grenada	
+GE	Georgia	GE previously represented Gilbert and Ellice Islands
+GF	French Guiana	Code taken from "Guyane française", its French name
+GG	Guernsey	
+GH	Ghana	
+GI	Gibraltar	
+GL	Greenland	
+GM	Gambia	
+GN	Guinea	
+GP	Guadeloupe	
+GQ	Equatorial Guinea	Code taken from "Guinée équatoriale", its French name
+GR	Greece	
+GS	South Georgia and the South Sandwich Islands	
+GT	Guatemala	
+GU	Guam	
+GW	Guinea-Bissau	
+GY	Guyana	
+HK	Hong Kong	
+HM	Heard Island and McDonald Islands	
+HN	Honduras	
+HR	Croatia	Code taken from "Hrvatska", its Croatian name
+HT	Haiti	
+HU	Hungary	
+ID	Indonesia	
+IE	Ireland	
+IL	Israel	
+IM	Isle of Man	
+IN	India	
+IO	British Indian Ocean Territory	Includes Diego Garcia
+IQ	Iraq	
+IR	Iran, Islamic Republic of	
+IS	Iceland	Code taken from "Ísland", its Icelandic name
+IT	Italy	
+JE	Jersey	
+JM	Jamaica	
+JO	Jordan	
+JP	Japan	
+KE	Kenya	
+KG	Kyrgyzstan	
+KH	Cambodia	Previously named "Kampuchea"
+Code taken from "Kampuchea", its former name
+KI	Kiribati	
+KM	Comoros	Code taken from "Komori", its Comorian name
+KN	Saint Kitts and Nevis	Previously named "Saint Kitts-Nevis-Anguilla"
+KP	Korea, Democratic People's Republic of	i.e., North Korea
+KR	Korea, Republic of	i.e., South Korea
+KW	Kuwait	
+KY	Cayman Islands	
+KZ	Kazakhstan	Previously named "Kazakstan"
+LA	Lao People's Democratic Republic	
+LB	Lebanon	
+LC	Saint Lucia	
+LI	Liechtenstein	
+LK	Sri Lanka	
+LR	Liberia	
+LS	Lesotho	
+LT	Lithuania	
+LU	Luxembourg	
+LV	Latvia	
+LY	Libyan Arab Jamahiriya	
+MA	Morocco	Code taken from "Maroc", its French name
+MC	Monaco	
+MD	Moldova	Previously named "Moldova, Republic of"
+ME	Montenegro	
+MF	Saint Martin (French part)	
+MG	Madagascar	
+MH	Marshall Islands	
+MK	Macedonia, the former Yugoslav Republic of	Designated as such due to naming dispute
+Code taken from "Makedonija", its Macedonian name
+ML	Mali	
+MM	Myanmar	Previously named "Burma" BU
+MN	Mongolia	
+MO	Macao	Previously named "Macau"
+MP	Northern Mariana Islands	
+MQ	Martinique	
+MR	Mauritania	
+MS	Montserrat	
+MT	Malta	
+MU	Mauritius	
+MV	Maldives	
+MW	Malawi	
+MX	Mexico	
+MY	Malaysia	
+MZ	Mozambique	
+NA	Namibia	
+NC	New Caledonia	
+NE	Niger	
+NF	Norfolk Island	
+NG	Nigeria	
+NI	Nicaragua	
+NL	Netherlands	
+NO	Norway	
+NP	Nepal	
+NR	Nauru	
+NU	Niue	
+NZ	New Zealand	
+OM	Oman	
+PA	Panama	
+PE	Peru	
+PF	French Polynesia	Code taken from "Polynésie française", its French name
+PG	Papua New Guinea	
+PH	Philippines	
+PK	Pakistan	
+PL	Poland	
+PM	Saint Pierre and Miquelon	
+PN	Pitcairn	
+PR	Puerto Rico	
+PS	Palestinian Territory, Occupied	Consisting of the West Bank and the Gaza Strip
+PT	Portugal	
+PW	Palau	
+PY	Paraguay	
+QA	Qatar	
+RE	Réunion	
+RO	Romania	
+RS	Serbia	Code taken from "Republic of Serbia", its official name
+RU	Russian Federation	
+RW	Rwanda	
+SA	Saudi Arabia	
+SB	Solomon Islands	Code taken from "British Solomon Islands", its former name
+SC	Seychelles	
+SD	Sudan	
+SE	Sweden	
+SG	Singapore	
+SH	Saint Helena	Includes Ascension Island and Tristan da Cunha
+SI	Slovenia	
+SJ	Svalbard and Jan Mayen	Consisting of Svalbard and Jan Mayen
+SK	Slovakia	SK previously represented Sikkim
+SL	Sierra Leone	
+SM	San Marino	
+SN	Senegal	
+SO	Somalia	
+SR	Suriname	
+ST	Sao Tome and Principe	
+SV	El Salvador	
+SY	Syrian Arab Republic	
+SZ	Swaziland	
+TC	Turks and Caicos Islands	
+TD	Chad	Code taken from "Tchad", its French name
+TF	French Southern Territories	Covers the current jurisdiction of the French Southern and Antarctic Lands except Adélie Land.
+Code taken from "Terres australes françaises", its French name
+TG	Togo	
+TH	Thailand	
+TJ	Tajikistan	
+TK	Tokelau	
+TL	Timor-Leste	Previously named "East Timor" TP
+TM	Turkmenistan	
+TN	Tunisia	
+TO	Tonga	
+TR	Turkey	
+TT	Trinidad and Tobago	
+TV	Tuvalu	
+TW	Taiwan, Province of China	Covers the current jurisdiction of the Republic of China except Kinmen and Lienchiang
+Designated as such due to its political status within the UN
+TZ	Tanzania, United Republic of	
+UA	Ukraine	Previously named "Ukrainian S.S.R."
+UG	Uganda	
+UM	United States Minor Outlying Islands	Consisting of Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island
+US	United States	
+UY	Uruguay	
+UZ	Uzbekistan	
+VA	Holy See (Vatican City State)	Administered by the Holy See
+Previously named "Vatican City State (Holy See)"
+VC	Saint Vincent and the Grenadines	
+VE	Venezuela	
+VG	Virgin Islands, British	
+VI	Virgin Islands, U.S.	
+VN	Viet Nam	
+VU	Vanuatu	Previously named "New Hebrides" NH
+WF	Wallis and Futuna	
+WS	Samoa	Code taken from "Western Samoa", its former name
+YE	Yemen	Previously named "Yemen, Republic of"
+YT	Mayotte	
+ZA	South Africa	Code taken from "Zuid-Afrika", its Dutch name
+ZM	Zambia	
+ZW	Zimbabwe	Previously named "Southern Rhodesia" RH
