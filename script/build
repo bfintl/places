@@ -1,13 +1,17 @@
 #!/usr/bin/env ruby
 
 ###
-# I have been running this script straight from textmate, so a few paths are hard-coded here
+# NOTE: I have been running this script straight from textmate, so a few paths are hard-coded here
 ##
 
-DELIM = "\t"
 
-# 1. Start with ISO-3166-1-numeric
+###
+# Methods to load files into lookup tables
+##
 
+DELIM = "\t" # some of our data uses commas
+
+# My ISO data files all have the same format: "code\tname\tnotes"
 def load_iso_csv(filename)
   table = {}
   File.open(filename).each_line do |line|
@@ -17,19 +21,22 @@ def load_iso_csv(filename)
   table
 end
 
+# The UN gives us a few regions that ISO does not
 def load_un_csv(filename, iso_numeric)
   table = {}
   File.open(filename).each_line do |line|
     code, name = line.strip.split(DELIM)
     code = code.to_sym
     name = name.to_sym
-    unless iso_numeric.has_value?(code)
+    unless iso_numeric.has_value?(code) # only load the extras
       table[name] = code
     end
   end
   table
 end
 
+# Parent-child lookups are stored in the file heirarchy.
+# This is pretty hackish, but it works.
 def load_parents
   parent = {}
   `find ../data/un -name '???'`.split("\n").each do |line|
@@ -41,18 +48,26 @@ def load_parents
   parent
 end
 
+###
+# Create a bunch of lookup tables
+##
 iso_numeric   = load_iso_csv('../data/iso/3166-1/numeric.csv')
 iso_alpha2    = load_iso_csv('../data/iso/3166-1/alpha-2.csv')
 iso_alpha3    = load_iso_csv('../data/iso/3166-1/alpha-3.csv')
 un_numeric    = load_un_csv('../data/un/001/World.csv', iso_numeric)
 un_parent     = load_parents
 
+###
+# Iterate through the data
+##
+
 names = (iso_numeric.keys + iso_alpha2.keys + iso_alpha3.keys + un_numeric.keys).uniq
 
-
+# Open the output file and give it a header
 data = File.open('../data/all.csv', 'w')
 data.puts ["ISO 3166-1 Numeric", "ISO 3166-1 Alpha2", "ISO 3166-1 Alpha3", "Parent", "Name"].join(DELIM)
 
+# Iterate through each country and create an output-ready array
 countries = names.collect do |name|
   numeric = iso_numeric[name] || un_numeric[name]
   alpha2  = iso_alpha2[name]
@@ -61,48 +76,9 @@ countries = names.collect do |name|
   [ numeric, alpha2, alpha3, parent, name ]
 end.sort { |a,b| a[0].to_s <=> b[0].to_s }
 
-countries.each do |country|
-  output = country.join("\t")
+# Format and write the data
+countries.each do |country|
+  output = country.join(DELIM)
   puts output
   data.puts output
 end
-
-
-
-
-
-# iso_numeric.each do |line_3166_numeric|
-#   numeric, name = line_3166_numeric.split("\t")
-#   alpha2 = iso_alpha2.grep(name)
-#   alpha3 = iso_alpha3.grep(name)
-#   # alpha2 = `grep "#{name}" ../data/iso/3166-1/alpha-2.txt`.split("\t").first
-#   # alpha3 = `grep "#{name}" ../data/iso/3166-1/alpha-3.txt`.split("\t").first
-#   parent = `find ../data/un -name '#{numeric}'`
-#   unless parent == ""
-#     parent = parent.split('/')[-2]
-#   end
-#   output = [numeric, alpha2, alpha3, parent, name ].join(",")
-#   puts output
-#   data.puts output
-#   exit
-# end
-#   
-
-
-
-
-# 
-# puts "Creating the "
-# 
-# echo -n "Creating the CSV... "
-# mkdir "build"
-# CSV="build/all.csv"
-# echo 'ISO-3166-1-numeric, ISO-3166-1-alpha2, ISO-3166-1-alpha3, Parent' > $CSV
-# echo "done."
-# 
-# echo -n "Starting with ISO-3166-1-numeric... "
-# sed "" data/iso/3166-1/numeric.txt
-# echo "done."
-
-# Adding ISO-3166-1-alpha2
-# Adding ISO-3166-1-alpha3
