@@ -8,7 +8,7 @@ This project was started specifically to provide bootstrapping and updating for 
 
 <http://github.com/bfintl/places>
 
-## Goals for data captured
+## Goals
 
 ### Identifiers
 
@@ -17,32 +17,27 @@ This project was started specifically to provide bootstrapping and updating for 
 
 ### Hierarchy
 
-Starting with the planet Earth and working its way down through Continents, Regions and Countries to your State/Province/City/Etc.
-
-We know, it's a lot of data, and others are doing a great job capturing it. The point here is not to duplicate other efforts as it is to find as much as possible that is useful for bootstrapping or supplementing new and existing projects with universal place data.
-
-Speaking of others who capture this data, who's working on that?
-
-* [Urban Mapping](http://urbanmapping.com)
-* Fill me in on others...
+Starting with the planet Earth and working its way down through Continents, Regions and Countries to your State/Province/City/Etc. There are a lot of projects that are capturing this stuff in detail, so I'll tend to err on the side of pragmatic rather than comprehensive.
 
 ## TODO
 
-* Find some hierarchy data for continents and major regions of the world. I think the UN has a useful list for this stuff.
-* Parse and scrape ISO-3166-1 and ISO-3166-2 codes into CSV, YAML, whatever
-* Create a unified ISO-3166 YAML file, SQL dump, ActiveRecord model import script, Datamapper model and import script, whatever else...
+* Create unified data output in more formats: CSV, YAML, SQL
+* Create an ActiveRecord model and import script
+* Create a Data Mapper model and import script
 * Locate a good source of endonyms and exonyms for countries and their regions
-* Create a unified YAML file or Ruby script with major world hierarchy and identifiers
 
-## Licensing
+## Other
 
-Much of this data is public domain or otherwise freely licensed.
+### Sources
 
-All of my ISO 3166 data so far is from [Wikipedia](http://en.wikipedia.org/wiki/ISO_3166).
+* [Wikipedia - ISO 3166](http://en.wikipedia.org/wiki/ISO_3166)
+* [UN Statistics Division - Standard Country and Area Codes Classification (M49)](http://unstats.un.org/unsd/methods/m49/m49regin.htm)
+
+### License
 
 Original code is licensed [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/).
 
-## Contact
+### Contact
 
 Nick Zadrozny, <nick@beyondthepath.com>
 
