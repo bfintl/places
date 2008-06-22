@@ -1,4 +1,3 @@
-Alpha-2	Country name	Notes
 AD	Andorra	
 AE	United Arab Emirates	
 AF	Afghanistan	
@@ -8,8 +7,7 @@ AL	Albania
 AM	Armenia	
 AN	Netherlands Antilles	
 AO	Angola	
-AQ	Antarctica	Consisting of all territory south of latitude 60°S
-Code taken from "Antarctique", its French name
+AQ	Antarctica	Consisting of all territory south of latitude 60°S	Code taken from "Antarctique", its French name
 AR	Argentina	
 AS	American Samoa	
 AT	Austria	
@@ -35,8 +33,7 @@ BS	Bahamas
 BT	Bhutan	
 BV	Bouvet Island	
 BW	Botswana	
-BY	Belarus	Previously named "Byelorussian S.S.R."
-Code taken from "Byelorussia", its former name
+BY	Belarus	Previously named "Byelorussian S.S.R."	Code taken from "Byelorussia", its former name
 BZ	Belize	
 CA	Canada	
 CC	Cocos (Keeling) Islands	
@@ -56,8 +53,7 @@ CV	Cape Verde
 CX	Christmas Island	
 CY	Cyprus	
 CZ	Czech Republic	
-DE	Germany	Previously named "Germany, Federal Republic of"
-Code taken from "Deutschland", its German name
+DE	Germany	Previously named "Germany, Federal Republic of"	Code taken from "Deutschland", its German name
 DJ	Djibouti	Previously named "French Afar and Issas" AI
 DK	Denmark	
 DM	Dominica	
@@ -66,11 +62,9 @@ DZ	Algeria	Code taken from "Ledzayer", its Berber name
 EC	Ecuador	
 EE	Estonia	Code taken from "Eesti", its Estonian name
 EG	Egypt	
-EH	Western Sahara	Previously named "Spanish Sahara"
-Code taken from "Sahara español", its former Spanish name
+EH	Western Sahara	Previously named "Spanish Sahara"	Code taken from "Sahara español", its former Spanish name
 ER	Eritrea	
-ES	Spain	Includes Canary Islands, Ceuta and Melilla
-Code taken from "España", its Spanish name
+ES	Spain	Includes Canary Islands, Ceuta and Melilla	Code taken from "España", its Spanish name
 ET	Ethiopia	
 FI	Finland	
 FJ	Fiji	
@@ -80,7 +74,7 @@ FO	Faroe Islands
 FR	France	Includes Clipperton Island
 GA	Gabon	
 GB	United Kingdom	Code taken from "Great Britain", part of its official name "United Kingdom of Great Britain and Northern Ireland"
-UK also exceptionally reserved on request of the United Kingdom
+UK	United Kingdom	also exceptionally reserved on request of the United Kingdom
 GD	Grenada	
 GE	Georgia	GE previously represented Gilbert and Ellice Islands
 GF	French Guiana	Code taken from "Guyane française", its French name
@@ -120,8 +114,7 @@ JO	Jordan
 JP	Japan	
 KE	Kenya	
 KG	Kyrgyzstan	
-KH	Cambodia	Previously named "Kampuchea"
-Code taken from "Kampuchea", its former name
+KH	Cambodia	Previously named "Kampuchea"	Code taken from "Kampuchea", its former name
 KI	Kiribati	
 KM	Comoros	Code taken from "Komori", its Comorian name
 KN	Saint Kitts and Nevis	Previously named "Saint Kitts-Nevis-Anguilla"
@@ -148,8 +141,7 @@ ME	Montenegro
 MF	Saint Martin (French part)	
 MG	Madagascar	
 MH	Marshall Islands	
-MK	Macedonia, the former Yugoslav Republic of	Designated as such due to naming dispute
-Code taken from "Makedonija", its Macedonian name
+MK	Macedonia, the former Yugoslav Republic of	Designated as such due to naming dispute	Code taken from "Makedonija", its Macedonian name
 ML	Mali	
 MM	Myanmar	Previously named "Burma" BU
 MN	Mongolia	
@@ -219,8 +211,7 @@ SY	Syrian Arab Republic
 SZ	Swaziland	
 TC	Turks and Caicos Islands	
 TD	Chad	Code taken from "Tchad", its French name
-TF	French Southern Territories	Covers the current jurisdiction of the French Southern and Antarctic Lands except Adélie Land.
-Code taken from "Terres australes françaises", its French name
+TF	French Southern Territories	Covers the current jurisdiction of the French Southern and Antarctic Lands except Adélie Land.	Code taken from "Terres australes françaises", its French name
 TG	Togo	
 TH	Thailand	
 TJ	Tajikistan	
@@ -232,8 +223,7 @@ TO	Tonga
 TR	Turkey	
 TT	Trinidad and Tobago	
 TV	Tuvalu	
-TW	Taiwan, Province of China	Covers the current jurisdiction of the Republic of China except Kinmen and Lienchiang
-Designated as such due to its political status within the UN
+TW	Taiwan, Province of China	Covers the current jurisdiction of the Republic of China except Kinmen and Lienchiang. Designated as such due to its political status within the UN
 TZ	Tanzania, United Republic of	
 UA	Ukraine	Previously named "Ukrainian S.S.R."
 UG	Uganda	
@@ -241,8 +231,7 @@ UM	United States Minor Outlying Islands	Consisting of Baker Island, Howland Isla
 US	United States	
 UY	Uruguay	
 UZ	Uzbekistan	
-VA	Holy See (Vatican City State)	Administered by the Holy See
-Previously named "Vatican City State (Holy See)"
+VA	Holy See (Vatican City State)	Administered by the Holy See, Previously named "Vatican City State (Holy See)"
 VC	Saint Vincent and the Grenadines	
 VE	Venezuela	
 VG	Virgin Islands, British	

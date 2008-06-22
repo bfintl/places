@@ -1,0 +1,276 @@
+ISO 3166-1 Numeric	ISO 3166-1 Alpha2	ISO 3166-1 Alpha3	Parent	Name
+001				World
+002			001	Africa
+004	AF	AFG	034	Afghanistan
+005			419	South America
+008	AL	ALB	039	Albania
+009			001	Oceania
+010	AQ	ATA		Antarctica
+011			002	Western Africa
+012	DZ	DZA	015	Algeria
+013			419	Central America
+015			002	Northern Africa
+016	AS	ASM	061	American Samoa
+017			002	Middle Africa
+018			002	Southern Africa
+019			001	Americas
+020	AD	AND	039	Andorra
+021			019	Northern America
+024	AO	AGO	017	Angola
+028	AG	ATG	029	Antigua and Barbuda
+029			419	Caribbean
+030			142	Eastern Asia
+031	AZ	AZE	145	Azerbaijan
+032	AR	ARG	005	Argentina
+034			142	Southern Asia
+035			142	South-Eastern Asia
+036	AU	AUS	053	Australia
+039			150	Southern Europe
+040	AT	AUT	155	Austria
+044	BS	BHS	029	Bahamas
+048	BH	BHR	145	Bahrain
+050	BD	BGD	034	Bangladesh
+051	AM	ARM	145	Armenia
+052	BB	BRB	029	Barbados
+053			009	Australia and New Zealand
+054			009	Melanesia
+056	BE	BEL	155	Belgium
+057			009	Micronesia
+060	BM	BMU	021	Bermuda
+061			009	Polynesia
+064	BT	BTN	034	Bhutan
+068	BO	BOL	005	Bolivia
+070	BA	BIH	039	Bosnia and Herzegovina
+072	BW	BWA	018	Botswana
+074	BV	BVT		Bouvet Island
+076	BR	BRA	005	Brazil
+084	BZ	BLZ	013	Belize
+086	IO	IOT		British Indian Ocean Territory
+090	SB	SLB	054	Solomon Islands
+092	VG	VGB	029	Virgin Islands, British
+096	BN	BRN	035	Brunei Darussalam
+100	BG	BGR	151	Bulgaria
+104	MM	MMR	035	Myanmar
+108	BI	BDI	014	Burundi
+112	BY	BLR	151	Belarus
+116	KH	KHM	035	Cambodia
+120	CM	CMR	017	Cameroon
+124	CA	CAN	021	Canada
+132	CV	CPV	011	Cape Verde
+136	KY	CYM	029	Cayman Islands
+140	CF	CAF	017	Central African Republic
+142			001	Asia
+143			142	Central Asia
+144	LK	LKA	034	Sri Lanka
+145			142	Western Asia
+148	TD	TCD	017	Chad
+150			001	Europe
+151			150	Eastern Europe
+152	CL	CHL	005	Chile
+154			150	Northern Europe
+155			150	Western Europe
+156	CN	CHN	030	China
+158	TW	TWN		Taiwan, Province of China
+162	CX	CXR		Christmas Island
+166	CC	CCK		Cocos (Keeling) Islands
+170	CO	COL	005	Colombia
+174	KM	COM	014	Comoros
+175	YT	MYT	014	Mayotte
+178	CG	COG	017	Congo
+180	CD	COD	017	Congo, the Democratic Republic of the
+184	CK	COK	061	Cook Islands
+188	CR	CRI	013	Costa Rica
+191	HR	HRV	039	Croatia
+192	CU	CUB	029	Cuba
+196	CY	CYP	145	Cyprus
+203	CZ	CZE	151	Czech Republic
+204	BJ	BEN	011	Benin
+208	DK	DNK	154	Denmark
+212	DM	DMA	029	Dominica
+214	DO	DOM	029	Dominican Republic
+218	EC	ECU	005	Ecuador
+222	SV	SLV	013	El Salvador
+226	GQ	GNQ	017	Equatorial Guinea
+231	ET	ETH	014	Ethiopia
+232	ER	ERI	014	Eritrea
+233	EE	EST	154	Estonia
+234	FO	FRO	154	Faroe Islands
+238	FK	FLK	005	Falkland Islands (Malvinas)
+239	GS	SGS		South Georgia and the South Sandwich Islands
+242	FJ	FJI	054	Fiji
+246	FI	FIN	154	Finland
+248	AX	ALA	154	Åland Islands
+250	FR	FRA	155	France
+254	GF	GUF	005	French Guiana
+258	PF	PYF	061	French Polynesia
+260	TF	ATF		French Southern Territories
+262	DJ	DJI	014	Djibouti
+266	GA	GAB	017	Gabon
+268	GE	GEO	145	Georgia
+270	GM	GMB	011	Gambia
+275	PS	PSE	145	Palestinian Territory, Occupied
+276	DE	DEU	155	Germany
+288	GH	GHA	011	Ghana
+292	GI	GIB	039	Gibraltar
+296	KI	KIR	057	Kiribati
+300	GR	GRC	039	Greece
+304	GL	GRL	021	Greenland
+308	GD	GRD	029	Grenada
+312	GP	GLP	029	Guadeloupe
+316	GU	GUM	057	Guam
+320	GT	GTM	013	Guatemala
+324	GN	GIN	011	Guinea
+328	GY	GUY	005	Guyana
+332	HT	HTI	029	Haiti
+334	HM	HMD		Heard Island and McDonald Islands
+336	VA	VAT	039	Holy See (Vatican City State)
+340	HN	HND	013	Honduras
+344	HK	HKG	030	Hong Kong
+348	HU	HUN	151	Hungary
+352	IS	ISL	154	Iceland
+356	IN	IND	034	India
+360	ID	IDN	035	Indonesia
+364	IR	IRN	034	Iran, Islamic Republic of
+368	IQ	IRQ	145	Iraq
+372	IE	IRL	154	Ireland
+376	IL	ISR	145	Israel
+380	IT	ITA	039	Italy
+384	CI	CIV	011	Côte d'Ivoire
+388	JM	JAM	029	Jamaica
+392	JP	JPN	030	Japan
+398	KZ	KAZ	143	Kazakhstan
+400	JO	JOR	145	Jordan
+404	KE	KEN	014	Kenya
+408	KP	PRK	030	Korea, Democratic People's Republic of
+410	KR	KOR	030	Korea, Republic of
+414	KW	KWT	145	Kuwait
+417	KG	KGZ	143	Kyrgyzstan
+418	LA	LAO	035	Lao People's Democratic Republic
+419			019	Latin America and the Caribbean
+422	LB	LBN	145	Lebanon
+426	LS	LSO	018	Lesotho
+428	LV	LVA	154	Latvia
+430	LR	LBR	011	Liberia
+434	LY	LBY	015	Libyan Arab Jamahiriya
+438	LI	LIE	155	Liechtenstein
+440	LT	LTU	154	Lithuania
+442	LU	LUX	155	Luxembourg
+446	MO	MAC	030	Macao
+450	MG	MDG	014	Madagascar
+454	MW	MWI	014	Malawi
+458	MY	MYS	035	Malaysia
+462	MV	MDV	034	Maldives
+466	ML	MLI	011	Mali
+470	MT	MLT	039	Malta
+474	MQ	MTQ	029	Martinique
+478	MR	MRT	011	Mauritania
+480	MU	MUS	014	Mauritius
+484	MX	MEX	013	Mexico
+492	MC	MCO	155	Monaco
+496	MN	MNG	030	Mongolia
+498	MD	MDA	151	Moldova
+499	ME	MNE	039	Montenegro
+500	MS	MSR	029	Montserrat
+504	MA	MAR	015	Morocco
+508	MZ	MOZ	014	Mozambique
+512	OM	OMN	145	Oman
+516	NA	NAM	018	Namibia
+520	NR	NRU	057	Nauru
+524	NP	NPL	034	Nepal
+528	NL	NLD	155	Netherlands
+530	AN	ANT	029	Netherlands Antilles
+533	AW	ABW	029	Aruba
+540	NC	NCL	054	New Caledonia
+548	VU	VUT	054	Vanuatu
+554	NZ	NZL	053	New Zealand
+558	NI	NIC	013	Nicaragua
+562	NE	NER	011	Niger
+566	NG	NGA	011	Nigeria
+570	NU	NIU	061	Niue
+574	NF	NFK	053	Norfolk Island
+578	NO	NOR	154	Norway
+580	MP	MNP	057	Northern Mariana Islands
+581	UM	UMI		United States Minor Outlying Islands
+583	FM	FSM	057	Micronesia, Federated States of
+584	MH	MHL	057	Marshall Islands
+585	PW	PLW	057	Palau
+586	PK	PAK	034	Pakistan
+591	PA	PAN	013	Panama
+598	PG	PNG	054	Papua New Guinea
+600	PY	PRY	005	Paraguay
+604	PE	PER	005	Peru
+608	PH	PHL	035	Philippines
+612	PN	PCN	061	Pitcairn
+616	PL	POL	151	Poland
+620	PT	PRT	039	Portugal
+624	GW	GNB	011	Guinea-Bissau
+626	TL	TLS	035	Timor-Leste
+630	PR	PRI	029	Puerto Rico
+634	QA	QAT	145	Qatar
+638	RE	REU	014	Réunion
+642	RO	ROU	151	Romania
+643	RU	RUS	151	Russian Federation
+646	RW	RWA	014	Rwanda
+652	BL	BLM	029	Saint Barthélemy
+654	SH	SHN	011	Saint Helena
+659	KN	KNA	029	Saint Kitts and Nevis
+660	AI	AIA	029	Anguilla
+662	LC	LCA	029	Saint Lucia
+663	MF	MAF	029	Saint Martin (French part)
+666	PM	SPM	021	Saint Pierre and Miquelon
+670	VC	VCT	029	Saint Vincent and the Grenadines
+674	SM	SMR	039	San Marino
+678	ST	STP	017	Sao Tome and Principe
+682	SA	SAU	145	Saudi Arabia
+686	SN	SEN	011	Senegal
+688	RS	SRB	039	Serbia
+690	SC	SYC	014	Seychelles
+694	SL	SLE	011	Sierra Leone
+702	SG	SGP	035	Singapore
+703	SK	SVK	151	Slovakia
+704	VN	VNM	035	Viet Nam
+705	SI	SVN	039	Slovenia
+706	SO	SOM	014	Somalia
+710	ZA	ZAF	018	South Africa
+716	ZW	ZWE	014	Zimbabwe
+724	ES	ESP	039	Spain
+732	EH	ESH	015	Western Sahara
+736	SD	SDN	015	Sudan
+740	SR	SUR	005	Suriname
+744	SJ	SJM	154	Svalbard and Jan Mayen
+748	SZ	SWZ	018	Swaziland
+752	SE	SWE	154	Sweden
+756	CH	CHE	155	Switzerland
+760	SY	SYR	145	Syrian Arab Republic
+762	TJ	TJK	143	Tajikistan
+764	TH	THA	035	Thailand
+768	TG	TGO	011	Togo
+772	TK	TKL	061	Tokelau
+776	TO	TON	061	Tonga
+780	TT	TTO	029	Trinidad and Tobago
+784	AE	ARE	145	United Arab Emirates
+788	TN	TUN	015	Tunisia
+792	TR	TUR	145	Turkey
+795	TM	TKM	143	Turkmenistan
+796	TC	TCA	029	Turks and Caicos Islands
+798	TV	TUV	061	Tuvalu
+800	UG	UGA	014	Uganda
+804	UA	UKR	151	Ukraine
+807	MK	MKD	039	Macedonia, the former Yugoslav Republic of
+818	EG	EGY	015	Egypt
+826	UK	GBR	154	United Kingdom
+830			154	Channel Islands
+831	GG	GGY	154	Guernsey
+832	JE	JEY	154	Jersey
+833	IM	IMN	154	Isle of Man
+834	TZ	TZA	014	Tanzania, United Republic of
+840	US	USA	021	United States
+850	VI	VIR	029	Virgin Islands, U.S.
+854	BF	BFA	011	Burkina Faso
+858	UY	URY	005	Uruguay
+860	UZ	UZB	143	Uzbekistan
+862	VE	VEN	005	Venezuela
+876	WF	WLF	061	Wallis and Futuna
+882	WS	WSM	061	Samoa
+887	YE	YEM	145	Yemen
+894	ZM	ZMB	014	Zambia
