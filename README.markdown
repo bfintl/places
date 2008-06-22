@@ -21,6 +21,7 @@ Starting with the planet Earth and working its way down through Continents, Regi
 
 ## TODO
 
+* Add country subdivisions (ISO 3166-2)
 * Create unified data output in more formats: CSV, YAML, SQL
 * Create an ActiveRecord model and import script
 * Create a Data Mapper model and import script
