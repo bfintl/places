@@ -2,7 +2,7 @@
 
 There are a lot of standards that exist for identifying and categorizing all the places in the world. This project attempts to capture them into a set of scripts that can be used to bootstrap your database of places.
 
-See "data/all.csv" for the most current tab-delimited data.
+See [data/all.csv](data/all.csv) for the most current tab-delimited data.
 
 This project was started specifically to provide bootstrapping and updating for the database of places at [Missions Bridge](http://missionsbridge.org/) and so is targeted at Rails and Merb web applications. Contributions are welcome!
 
