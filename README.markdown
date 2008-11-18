@@ -21,11 +21,15 @@ Starting with the planet Earth and working its way down through Continents, Regi
 
 ## TODO
 
-* Add country subdivisions (ISO 3166-2)
-* Create unified data output in more formats: CSV, YAML, SQL
-* Create an ActiveRecord model and import script
-* Create a Data Mapper model and import script
-* Locate a good source of endonyms and exonyms for countries and their regions
+* Nov 2008
+** Implement support for Yahoo! GeoPlanet API
+** Implement Yahoo! GeoPlanet client as a Merb slice
+* Jun 2008
+** Add country subdivisions (ISO 3166-2)
+** Create unified data output in more formats: CSV, YAML, SQL
+** Create an ActiveRecord model and import script
+** Create a Data Mapper model and import script
+** Locate a good source of endonyms and exonyms for countries and their regions
 
 ## Other
 
@@ -33,6 +37,7 @@ Starting with the planet Earth and working its way down through Continents, Regi
 
 * [Wikipedia - ISO 3166](http://en.wikipedia.org/wiki/ISO_3166)
 * [UN Statistics Division - Standard Country and Area Codes Classification (M49)](http://unstats.un.org/unsd/methods/m49/m49regin.htm)
+* **New:** The [Yahoo! GeoPlanet API](http://developer.yahoo.com/geo/) looks perfect for this.
 
 ### License
 
