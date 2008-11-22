@@ -1,9 +1,13 @@
 require File.join(File.dirname(__FILE__), '..', 'spec_helper.rb')
 
+def valid_place_attributes
+  { :name => "Bremerton", :woeid => 2368481 }
+end
+
 given "a place exists" do
   Place.all.destroy!
   request(resource(:places), :method => "POST", 
-    :params => { :place => { :id => nil }})
+    :params => { :place => valid_place_attributes})
 end
 
 describe "resource(:places)" do
@@ -39,7 +43,7 @@ describe "resource(:places)" do
     before(:each) do
       Place.all.destroy!
       @response = request(resource(:places), :method => "POST", 
-        :params => { :place => { :id => nil }})
+        :params => { :place => valid_place_attributes })
     end
     
     it "redirects to resource(:places)" do
